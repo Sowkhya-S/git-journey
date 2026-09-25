@@ -1,11 +1,6 @@
-<<<<<<< HEAD
+
 FOUR
-<<<<<<< HEAD
 4
-=======
 44
->>>>>>> staging
-=======
 Three 
 33
->>>>>>> staging
